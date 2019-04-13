@@ -1,0 +1,21 @@
+h1{
+
+background-color: blue;
+text-align: center;
+}
+
+.abc{
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+img{
+height: 200px;
+width: 200px;
+transition: 1s;
+}
+
+img:hover{
+	transform: scale(1.5);
+}
